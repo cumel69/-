@@ -1,0 +1,10 @@
+D:\Дроздов 22КС-20\drozdov\drozdov\bin\Debug\drozdov.exe.config
+D:\Дроздов 22КС-20\drozdov\drozdov\bin\Debug\drozdov.exe
+D:\Дроздов 22КС-20\drozdov\drozdov\bin\Debug\drozdov.pdb
+D:\Дроздов 22КС-20\drozdov\drozdov\obj\Debug\drozdov.csproj.AssemblyReference.cache
+D:\Дроздов 22КС-20\drozdov\drozdov\obj\Debug\drozdov.Form1.resources
+D:\Дроздов 22КС-20\drozdov\drozdov\obj\Debug\drozdov.Properties.Resources.resources
+D:\Дроздов 22КС-20\drozdov\drozdov\obj\Debug\drozdov.csproj.GenerateResource.cache
+D:\Дроздов 22КС-20\drozdov\drozdov\obj\Debug\drozdov.csproj.CoreCompileInputs.cache
+D:\Дроздов 22КС-20\drozdov\drozdov\obj\Debug\drozdov.exe
+D:\Дроздов 22КС-20\drozdov\drozdov\obj\Debug\drozdov.pdb
